@@ -2,7 +2,7 @@
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/fty/fty.json", "name": "饭太硬" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiaomi/xiaomi.json", "name": "小米" },
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiaomi/api.json", "name": "小米" },
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/OK/OK.json", "name": "ok" },
 
