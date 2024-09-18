@@ -4,13 +4,13 @@
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/xiaomi/xiaomi.json", "name": "小米" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/ok/ok.jsonn", "name": "ok" },
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/ok/ok.json", "name": "ok" },
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/feimao/feimao.json", "name": "肥猫" },
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/miaoyingshi/miaoyingshi.json", "name": "喵影视" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/ouge/ouge.jsonon", "name": "讴歌" },
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/ouge/ouge.json", "name": "讴歌" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiangyaqing/xiangyaqing.jsonn", "name": "香雅情" }]}
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiangyaqing/xiangyaqing.json", "name": "香雅情" }]}
 
