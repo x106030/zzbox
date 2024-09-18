@@ -1,6 +1,6 @@
-{ "urls": [{ "url": "https://gitee.com/xx16875/zybox/raw/master/daozhang/daozhang.json", "name": "道长" },
+{ "urls": [{ "url": "https://gitee.com/xx16875/zybox/raw/master/fty/fty.json", "name": "饭太硬" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/fty/fty.json", "name": "饭太硬" },
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/daozhang/daozhang.json", "name": "道长" },
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/OK/OK.json", "name": "OK" },
 
