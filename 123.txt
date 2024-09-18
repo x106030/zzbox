@@ -4,7 +4,7 @@
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/xiaomi/xiaomi.json", "name": "小米" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/ok/ok.json", "name": "ok" },
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/OK/OK.json", "name": "ok" },
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/feimao/feimao.json", "name": "肥猫" },
 
