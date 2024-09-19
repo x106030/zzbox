@@ -10,5 +10,11 @@
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/ouge/ouge.json", "name": "讴歌" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiangyaqing/xiangyaqing.json", "name": "香雅情" }]}
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/One/One.json", "name": "One" },
+
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/Ray/Ray.json", "name": "Ray" },
+
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/wangpan/wangpan.json", "name": "网盘" },
+
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiaosa/xiaosa.json", "name": "潇洒" },]}
 
