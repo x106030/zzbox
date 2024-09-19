@@ -18,5 +18,11 @@
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/wangpan/wangpan.json", "name": "网盘" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiaosa/xiaosa.json", "name": "潇洒" }]}
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiaosa/xiaosa.json", "name": "潇洒" },
+
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/0/0.json", "name": "零" },
+
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/tv/tv.json", "name": "tv" },
+
+{ "url": "https://gitee.com/xx16875/zybox/raw/master/wangerxiao/wangerxiao.json", "name": "王二小" }]}
 
