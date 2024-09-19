@@ -14,7 +14,7 @@
     "sites": [
         {
             "key": "csp_LocalFile",
-            "name": "💻本地视频",
+            "name": "💻老船长影视",
             "type": 3,
             "api": "csp_LocalFile",
             "searchable": 0,
