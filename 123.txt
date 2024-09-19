@@ -2,8 +2,6 @@
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/daozhang/daozhang.json", "name": "道长" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiangyaqing/xiangyaqing.json", "name": "香雅情" },
-
 { "url": "https://gitee.com/xx16875/zybox/raw/master/OK/OK.json", "name": "OK" },
 
 { "url": "https://gitee.com/xx16875/zybox/raw/master/feimao/feimao.json", "name": "肥猫" },
