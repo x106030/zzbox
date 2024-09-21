@@ -1,6 +1,8 @@
-{ "urls": [{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/fty/fty.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/fty/fty.json", "name": "老船长" },
 
 { "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/daozhang/daozhang.json", "name": "道长" },
+
+{ "url": "{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/小米/api.json", "name": "小米" },
 
 { "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/OK/OK.json", "name": "OK" },
 
