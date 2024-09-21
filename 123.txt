@@ -1,24 +1,24 @@
-{ "urls": [{ "url": "https://gitee.com/xx16875/zybox/raw/master/fty/fty.json", "name": "饭太硬" },
+{ "urls": [{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/fty/fty.json", "name": "饭太硬" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/daozhang/daozhang.json", "name": "道长" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/daozhang/daozhang.json", "name": "道长" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/OK/OK.json", "name": "OK" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/OK/OK.json", "name": "OK" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/feimao/feimao.json", "name": "肥猫" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/feimao/feimao.json", "name": "肥猫" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/miaoyingshi/miaoyingshi.json", "name": "喵影视" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/miaoyingshi/miaoyingshi.json", "name": "喵影视" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/ouge/ouge.json", "name": "讴歌" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/ouge/ouge.json", "name": "讴歌" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/One/One.json", "name": "One" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/One/One.json", "name": "One" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/Ray/Ray.json", "name": "Ray" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/Ray/Ray.json", "name": "Ray" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/wangpan/wangpan.json", "name": "网盘" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/wangpan/wangpan.json", "name": "网盘" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/xiaosa/xiaosa.json", "name": "潇洒" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/xiaosa/xiaosa.json", "name": "潇洒" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/0/0.json", "name": "零" },
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/0/0.json", "name": "零" },
 
-{ "url": "https://gitee.com/xx16875/zybox/raw/master/wangerxiao/wangerxiao.json", "name": "王二小" }]}
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/wangerxiao/wangerxiao.json", "name": "王二小" }]}
 
