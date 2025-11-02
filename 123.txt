@@ -1,5 +1,7 @@
 { "urls": [{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/fty/fty.json", "name": "饭太硬" },
 
+{ "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/FM/FM.json", "name": "优选" },
+
 { "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/daozhang/daozhang.json", "name": "道长" },
 
 { "url": "https://raw.githubusercontent.com/x106030/zzbox/refs/heads/master/小米/api.json", "name": "小米" },
